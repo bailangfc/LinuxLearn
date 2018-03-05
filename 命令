@@ -1,0 +1,6 @@
+ls　    查看当前目录下的文件
+pwd    　显示当前路径
+touch   创建文件
+mkdir   创建文件夹
+cd      切换目录
+clear   清屏
